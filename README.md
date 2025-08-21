@@ -147,22 +147,6 @@
 
 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-### 🗓️ Timeline 
-([Back to Table of Contents](#table-of-contents))
-
-### PhD Monthly Timetable (Transposed)
-
-| Paper / Month       | Aug 2025 | Sep 2025 | Oct 2025 | Nov 2025 | Dec 2025 | Jan 2026 | Feb 2026 | Mar 2026 | Apr 2026 | May 2026 | Jun 2026 | Jul 2026 | Aug 2026 | Sep 2026 | Oct 2026 | Nov 2026 | Dec 2026 | Jan 2027 | Feb – Mar 2027 | Apr – Jun 2027 | Jul – Nov 2027 | Dec 2027 – Mar 2028 | Apr – Nov 2028 | Dec 2028 – Jan 2029 |
-|--------------------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------------|----------------|----------------|--------------------|----------------|--------------------|
-| **Paper 1 (ICML 2026)** | 🔹 Lit & experiments | 🔹 Experiments | 🔹 Write intro | 🔹 Draft paper | 🔹 Submit ICML |          |          |          |          |          |          |          |          |          |          |          |          |          |                |                |                |                    |                |                    |
-| **Paper 2 (CVPR 2026)** |          |          |          |          |          | 🔹 Idea generation | 🔹 Start experiments | 🔹 Continue experiments | 🔹 Draft sections | 🔹 Write results | 🔹 Draft paper | 🔹 Internal review | 🔹 Final revisions | 🔹 Submit CVPR |          |          |          |          |                |                | 🔹 Draft & submit NeurIPS/CVPR 2027 |                    | 🔹 Draft & submit CVPR 2028 |                    |
-| **Paper 3 (ICCV 2027)** |          |          |          |          |          |          |          | 🔹 Idea planning |          |          | 🔹 Start experiments | 🔹 Continue experiments | 🔹 Continue experiments | 🔹 Continue experiments | 🔹 Draft full paper | 🔹 Internal review & revisions | 🔹 Submit ICCV | 🔹 Follow up reviews | 🔹 Additional experiments / new project ideas |                |                |                    |                |                    |
-| **Paper 4/5 (Optional)** |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |                | 🔹 Paper 4 experiments | 🔹 Draft & submit NeurIPS/CVPR 2027 | 🔹 ECCV 2028 planning & experiments | 🔹 Draft & submit CVPR 2028 | 🔹 ICCV 2029 submission & thesis wrap-up |
-
 
 
 
