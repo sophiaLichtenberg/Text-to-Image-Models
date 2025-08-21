@@ -79,23 +79,23 @@
 
 + **TIBET** [TIBET: Identifying and Evaluating Biases in Text-to-Image Generative Models](https://arxiv.org/abs/2312.01261) (Dec. 3, 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.01261)
-  [![Star](https://img.shields.io/github/stars/xmed-lab/TAM.svg?style=social&label=Star)](https://github.com/xmed-lab/TAM)
+  [![Star](https://img.shields.io/github/stars/xmed-lab/TAM.svg?style=social&label=Star)](https://tibet-ai.github.io/)
   
 + **KITTEN** [KITTEN: A Knowledge-Intensive Evaluation of Image Generation on Visual Entities](https://arxiv.org/abs/2410.11824) (Oct. 15, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.11824)
-  [![Star](https://img.shields.io/github/stars/xmed-lab/TAM.svg?style=social&label=Star)](https://github.com/xmed-lab/TAM)
+  [![Star](https://img.shields.io/github/stars/xmed-lab/TAM.svg?style=social&label=Star)](https://kitten-project.github.io/)
 
 + **CUBE** [Beyond Aesthetics: Cultural Competence in Text-to-Image Models](https://arxiv.org/abs/2407.06863) (Jul. 9, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.06863)
-  [![Star](https://img.shields.io/github/stars/xmed-lab/TAM.svg?style=social&label=Star)](https://github.com/xmed-lab/TAM)
+  [![Star](https://img.shields.io/github/stars/xmed-lab/TAM.svg?style=social&label=Star)](https://github.com/google-deepmind/cube)
 
 + **WISE** [WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation](https://arxiv.org/abs/2503.07265) (Mar. 10, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.07265)
-  [![Star](https://img.shields.io/github/stars/xmed-lab/TAM.svg?style=social&label=Star)](https://github.com/xmed-lab/TAM)
+  [![Star](https://img.shields.io/github/stars/xmed-lab/TAM.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/WISE)
   
 + **TIGeR** [TIGeR: Unifying Text-to-Image Generation and Retrieval with Large Multimodal Models](https://arxiv.org/abs/2406.05814) (Jun. 9, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.05814)
-  [![Star](https://img.shields.io/github/stars/xmed-lab/TAM.svg?style=social&label=Star)](https://github.com/xmed-lab/TAM)
+  [![Star](https://img.shields.io/github/stars/xmed-lab/TAM.svg?style=social&label=Star)](https://tiger-t2i.github.io/)
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
