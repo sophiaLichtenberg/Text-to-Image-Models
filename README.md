@@ -135,13 +135,13 @@
 | ECCV |  2026  | Feb | Mar | Malmö |
 | WACV |  2026  | Jul/Sep | Jul/Sep | Tucson |
 | CVPR |  2026  | Nov | Nov | Denver |
-|----------|:-------------:|------:|
+|----------|-------------|------|
 | ICCV |  2027  | Mar  | Mar  | Hong Kong |
 | CVPR |  2027  | Nov | Nov | Seattle |
-|----------|:-------------:|------:|
+|----------|-------------|------|
 | ECCV |  2028  | Feb | Mar | ... |
 | CVPR |  2028  | Nov | Nov | San Antonio |
-|----------|:-------------:|------:|
+|----------|-------------|------|
 | ICCV |  2029  | Mar  | Mar  | Dubai |
 | CVPR |  2029  | Nov | Nov | Los Angeles |
     
