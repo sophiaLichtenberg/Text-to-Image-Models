@@ -154,8 +154,6 @@
 
 
 
-
-
 <!--- ### 📜 Input-level Attribution
 ([Back to Table of Contents](#table-of-contents))
 + **Token Activation Map for VLLM** [Token Activation Map to Visually Explain Multimodal LLMs](https://arxiv.org/abs/2411.16198) (Apr. 4, 2025)
