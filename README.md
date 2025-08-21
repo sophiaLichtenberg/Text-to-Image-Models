@@ -17,12 +17,10 @@
 
 ## Table of Contents
 - [Surveys](#-surveys)
-- [Blog](#-blog)
 - [Papers](#-papers)
   - [Cultural Bias](#-cultural-bias)
   - [Social Bias](#-social-bias)
-- [Tool](#-tool)
-- [Contribution](#-Contribution)
+- [Conferences](#-Conferences)
 
 
 
@@ -126,7 +124,15 @@
 
 
 
+### 🗓️ Conferences 
+([Back to Table of Contents](#table-of-contents))
 
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+    
 
 
 
