@@ -142,12 +142,12 @@
 | CVPR       | 2027 | Nov              | Nov               | Seattle       |
 | ICML       | 2028 | Jan              | Jan               | ...           |
 | ECCV       | 2028 | Feb              | Mar               | ...           |
-| NeurIPS    | 2027 | May              | May               | ...           |
+| NeurIPS    | 2028 | May              | May               | ...           |
 | WACV       | 2028 | Jul/Sep          | Jul/Sep           | ...           |
 | CVPR       | 2028 | Nov              | Nov               | San Antonio   |
 | ICML       | 2029 | Jan              | Jan               | ...           |
 | ICCV       | 2029 | Mar              | Mar               | Dubai         |
-| NeurIPS    | 2027 | May              | May               | ...           |
+| NeurIPS    | 2029 | May              | May               | ...           |
 | WACV       | 2029 | Jul/Sep          | Jul/Sep           | ...           |
 | CVPR       | 2029 | Nov              | Nov               | Los Angeles   |
 
