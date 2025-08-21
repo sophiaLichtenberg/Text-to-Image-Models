@@ -144,14 +144,11 @@
 
 
 <!--- ### 📜 Input-level Attribution
-[comment]: <>  ([Back to Table of Contents](#table-of-contents))
-
--->
-[comment]: <> + **Token Activation Map for VLLM** [Token Activation Map to Visually Explain Multimodal LLMs](https://arxiv.org/abs/2411.16198) (Apr. 4, 2025)
-[comment]: <>   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.23270)
-[comment]: <>    [![Star](https://img.shields.io/github/stars/xmed-lab/TAM.svg?style=social&label=Star)](https://github.com/xmed-lab/TAM)
-
-[//]: # -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+([Back to Table of Contents](#table-of-contents))
++ **Token Activation Map for VLLM** [Token Activation Map to Visually Explain Multimodal LLMs](https://arxiv.org/abs/2411.16198) (Apr. 4, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.23270)
+  [![Star](https://img.shields.io/github/stars/xmed-lab/TAM.svg?style=social&label=Star)](https://github.com/xmed-lab/TAM)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 📜 Sparse Autoencoder
 ([Back to Table of Contents](#table-of-contents))
@@ -208,3 +205,7 @@
 + **Causal Tracing Tool 4 BLIP** [Towards Vision-Language Mechanistic Interpretability: A Causal Tracing Tool for BLIP](https://arxiv.org/abs/2308.14179) (Aug. 27, 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.14179)
   [![Star](https://img.shields.io/github/stars/vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability.svg?style=social&label=Star)](https://github.com/vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability)
+
+
+
+-->
