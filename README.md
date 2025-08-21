@@ -24,6 +24,7 @@
 - [Tool](#-tool)
 - [Contribution](#-Contribution)
 
+<--
 ## 📚 Surveys:
 ([Back to Table of Contents](#Table-of-Contents))
 + [A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models](https://arxiv.org/abs/2503.05613) (Jun. 06, 2025)
@@ -40,7 +41,6 @@
 
 + [Explainable and Interpretable Multimodal Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2412.02104) (Dec. 3, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02104)
-
 
 
 ## 📚 Blog:
@@ -60,6 +60,9 @@
 + [Laying the Foundations for Vision and Multimodal Mechanistic Interpretability & Open Problems](https://www.lesswrong.com/posts/kobJymvvcvhbjWFKe/laying-the-foundations-for-vision-and-multimodal-mechanistic) (May. 14, 2024)
 
 + [Towards Multimodal Interpretability: Learning Sparse Interpretable Features in Vision Transformers](https://www.lesswrong.com/posts/bCtbuWraqYTDtuARg/towards-multimodal-interpretability-learning-sparse-2) (Apr. 30, 2024)
+
+-->
+
 
 
 ## 📚 Papers:
