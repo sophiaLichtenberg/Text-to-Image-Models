@@ -130,9 +130,9 @@
 | Conference | Year | Abstract Deadline | Full Paper Deadline | Location      |
 |------------|:----:|:----------------:|:-----------------:|---------------|
 | ICML       | 2026 | Jan              | Jan               | Seoul         |
+| ECCV       | 2026 | Feb              | Mar               | Malmö         |
 | NeurIPS    | 2026 | May              | May               | ...           |
 | AIES       | 2026 | May              | May               | ...           |
-| ECCV       | 2026 | Feb              | Mar               | Malmö         |
 | WACV       | 2026 | Jul/Sep          | Jul/Sep           | Tucson        |
 | CVPR       | 2026 | Nov              | Nov               | Denver        |
 | ICCV       | 2027 | Mar              | Mar               | Hong Kong     |
