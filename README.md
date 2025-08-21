@@ -1,11 +1,11 @@
-# 🌟 TEXT-TO-IMAGE Models
+# 🌟Awesome TEXT-TO-IMAGE Models
 <div align="center">
   <img src="logo.png" alt="Logo" width="300">
   <h1 align="center">Overview</h1>
   
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![](https://img.shields.io/github/last-commit/itsqyh/Awesome-LMMs-Mechanistic-Interpretability?color=green)  
+![](https://img.shields.io/github/last-commit/sophiaLichtenberg/Text-to-Image-Models/?color=green)  
 
 </div>
 
