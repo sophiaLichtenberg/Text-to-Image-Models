@@ -104,7 +104,7 @@
 
 + **FAIntbench** [FAIntbench: A Holistic and Precise Benchmark for Bias Evaluation in Text-to-Image Models](https://arxiv.org/abs/2405.17814) (May. 28, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.17814)
-  [![Star](https://img.shields.io/github/stars/xmed-lab/TAM.svg?style=social&label=Star)](https://github.com/Astarojth/FAIntbench-v1)
+  [![Star](https://img.shields.io/github/stars/Astarojth/FAIntbench-v1.svg?style=social&label=Star)](https://github.com/Astarojth/FAIntbench-v1)
 
 + **OASIS** [OASIS Uncovers: High-Quality T2I Models, Same Old Stereotypes](https://arxiv.org/abs/2501.00962) (May. 7, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.00962)
@@ -120,7 +120,7 @@
   
 + **BIGbench** [BIGbench: A Unified Benchmark for Evaluating Multi-dimensional Social Biases in Text-to-Image Models](https://arxiv.org/abs/2407.15240) (Jul. 21, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.15240)
-  [![Star](https://img.shields.io/github/stars/xmed-lab/TAM.svg?style=social&label=Star)](https://github.com/BIGbench2024/BIGbench2024)
+  [![Star](https://img.shields.io/github/stars/BIGbench2024/BIGbench2024.svg?style=social&label=Star)](https://github.com/BIGbench2024/BIGbench2024)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
