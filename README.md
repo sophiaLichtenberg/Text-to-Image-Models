@@ -19,7 +19,8 @@
 - [Surveys](#-surveys)
 - [Blog](#-blog)
 - [Papers](#-papers)
-  - [Cunltural Bias](#-cultural-bias)
+  - [Cultural Bias](#-cultural-bias)
+  - [Social Bias](#-social-bias)
   - [Sparse Autoencoder](#-sparse-autoencoder)
   - [Probing](#-probing)
   - [(Beyond) Logit Lens](#-beyond-or-logit-lens)
@@ -103,9 +104,25 @@
 ([Back to Table of Contents](#table-of-contents))
 
 
-+ **Bias Connect** [Token Activation Map to Visually Explain Multimodal LLMs](https://arxiv.org/abs/2411.16198) (Apr. 4, 2025)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.23270)
-  [![Star](https://img.shields.io/github/stars/xmed-lab/TAM.svg?style=social&label=Star)](https://github.com/xmed-lab/TAM)
++ **FAIntbench** [FAIntbench: A Holistic and Precise Benchmark for Bias Evaluation in Text-to-Image Models](https://arxiv.org/abs/2405.17814) (May. 28, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.17814)
+  [![Star](https://img.shields.io/github/stars/xmed-lab/TAM.svg?style=social&label=Star)](https://github.com/Astarojth/FAIntbench-v1)
+
++ **OASIS** [OASIS Uncovers: High-Quality T2I Models, Same Old Stereotypes](https://arxiv.org/abs/2501.00962) (May. 7, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.00962)
+
++ **Bias Connect** [Mitigate One, Skew Another? Tackling Intersectional Biases in Text-to-Image Models](https://arxiv.org/abs/2505.17280) (May. 22, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.17280)
+
+
++ **Bias Connect** [BiasConnect: Investigating Bias Interactions in Text-to-Image Models](https://arxiv.org/abs/2503.09763) (Mar. 12, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.09763)
+
+
+  
++ **BIGbench** [BIGbench: A Unified Benchmark for Evaluating Multi-dimensional Social Biases in Text-to-Image Models](https://arxiv.org/abs/2407.15240) (Jul. 21, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.15240)
+  [![Star](https://img.shields.io/github/stars/xmed-lab/TAM.svg?style=social&label=Star)](https://github.com/BIGbench2024/BIGbench2024)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
