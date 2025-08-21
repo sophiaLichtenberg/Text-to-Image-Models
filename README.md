@@ -127,21 +127,24 @@
 ### 🗓️ Conferences 
 ([Back to Table of Contents](#table-of-contents))
 
-
 | Conference | Year | Abstract Deadline | Full Paper Deadline | Location      |
 |------------|:----:|:----------------:|:-----------------:|---------------|
-| NeurIPS    | <span style="color:red">2026</span> | May              | May               | ...           |
-| ICML       | <span style="color:red">2026</span> | Jan              | Jan               | Seoul         |
-| AIES       | <span style="color:red">2026</span> | May              | May               | ...           |
-| ECCV       | <span style="color:red">2026</span> | Feb              | Mar               | Malmö         |
-| WACV       | <span style="color:red">2026</span> | Jul/Sep          | Jul/Sep           | Tucson        |
-| CVPR       | <span style="color:red">2026</span> | Nov              | Nov               | Denver        |
-| ICCV       | <span style="color:blue">2027</span> | Mar              | Mar               | Hong Kong     |
-| CVPR       | <span style="color:blue">2027</span> | Nov              | Nov               | Seattle       |
-| ECCV       | <span style="color:green">2028</span> | Feb              | Mar               | ...           |
-| CVPR       | <span style="color:green">2028</span> | Nov              | Nov               | San Antonio   |
-| ICCV       | <span style="color:orange">2029</span> | Mar              | Mar               | Dubai         |
-| CVPR       | <span style="color:orange">2029</span> | Nov              | Nov               | Los Angeles   |
+| NeurIPS    | 2026 | May              | May               | ...           |
+| ICML       | 2026 | Jan              | Jan               | Seoul         |
+| AIES       | 2026 | May              | May               | ...           |
+| ECCV       | 2026 | Feb              | Mar               | Malmö         |
+| WACV       | 2026 | Jul/Sep          | Jul/Sep           | Tucson        |
+| CVPR       | 2026 | Nov              | Nov               | Denver        |
+| ICCV       | 2027 | Mar              | Mar               | Hong Kong     |
+| WACV       | 2027 | Jul/Sep          | Jul/Sep           | ...           |
+| CVPR       | 2027 | Nov              | Nov               | Seattle       |
+| ECCV       | 2028 | Feb              | Mar               | ...           |
+| WACV       | 2028 | Jul/Sep          | Jul/Sep           | ...           |
+| CVPR       | 2028 | Nov              | Nov               | San Antonio   |
+| ICCV       | 2029 | Mar              | Mar               | Dubai         |
+| WACV       | 2029 | Jul/Sep          | Jul/Sep           | ...           |
+| CVPR       | 2029 | Nov              | Nov               | Los Angeles   |
+
 
 
 
