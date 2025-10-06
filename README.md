@@ -130,6 +130,7 @@
 | Conference | Year | Abstract Deadline | Full Paper Deadline | Location      |
 |------------|:----:|:----------------:|:-----------------:|---------------|
 | ICML       | 2026 | Jan              | Jan               | Seoul         |
+| FAccT      | 2026 | Jan              | Jan               | Montreal      |
 | ECCV       | 2026 | Feb              | Mar               | Malmö         |
 | NeurIPS    | 2026 | May              | May               | ...           |
 | AIES       | 2026 | May              | May               | ...           |
@@ -138,6 +139,7 @@
 | CVPR       | 2026 | Nov              | Nov               | Denver        |
 |            |      |                  |                   |               | 
 | ICML       | 2027 | Jan              | Jan               | ...           |
+| FAccT      | 2026 | Jan              | Jan               | ...           |
 | ICCV       | 2027 | Mar              | Mar               | Hong Kong     |
 | NeurIPS    | 2027 | May              | May               | ...           |
 | WACV       | 2027 | Jul/Sep          | Jul/Sep           | ...           |
@@ -145,6 +147,7 @@
 | CVPR       | 2027 | Nov              | Nov               | Seattle       |
 |            |      |                  |                   |               | 
 | ICML       | 2028 | Jan              | Jan               | ...           |
+| FAccT      | 2026 | Jan              | Jan               | ...           |
 | ECCV       | 2028 | Feb              | Mar               | ...           |
 | NeurIPS    | 2028 | May              | May               | ...           |
 | WACV       | 2028 | Jul/Sep          | Jul/Sep           | ...           |
@@ -152,6 +155,7 @@
 | CVPR       | 2028 | Nov              | Nov               | San Antonio   |
 |            |      |                  |                   |               | 
 | ICML       | 2029 | Jan              | Jan               | ...           |
+| FAccT      | 2026 | Jan              | Jan               | ...           |
 | ICCV       | 2029 | Mar              | Mar               | Dubai         |
 | NeurIPS    | 2029 | May              | May               | ...           |
 | WACV       | 2029 | Jul/Sep          | Jul/Sep           | ...           |
