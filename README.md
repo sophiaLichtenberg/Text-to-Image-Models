@@ -138,6 +138,7 @@
 | AIES       | 2026 | 21.05.2026       | 21.05.2026        | Malmö         |
 | WACV       | 2026 | Jul/Sep          | Jul/Sep           | Tucson        |
 | ICLR       | 2026 | Sep              | Sep               | Rio           |
+| CHI        | 2026 | Sep              | Sep               | Pittsburgh    |
 | CVPR       | 2026 | Nov              | Nov               | Denver        |
 |            |      |                  |                   |               | 
 | ICML       | 2027 | Jan              | Jan               | ...           |
