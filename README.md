@@ -131,9 +131,10 @@
 |------------|:----:|:----------------:|:-----------------:|---------------|
 | ICML       | 2026 | Jan              | 28.01.2026        | Seoul         |
 | FAccT      | 2026 | Jan              | 13.01.2026        | Montreal      |
-| ECCV       | 2026 | Feb              | 05.03.2026        | Malmö         |
+| ECCV       | 2026 | 26.02.206        | 05.03.2026        | Malmö         |
 | NeurIPS    | 2026 | May              | May               | Sydney        |
-| AIES       | 2026 | May              | May               | ...           |
+| EMNLP      | 2026 | May              | May               | ...           |
+| AIES       | 2026 | 21.05.2026       | 21.05.2026        | Malmö         |
 | WACV       | 2026 | Jul/Sep          | Jul/Sep           | Tucson        |
 | ICLR       | 2026 | Sep              | Sep               | Rio           |
 | CVPR       | 2026 | Nov              | Nov               | Denver        |
