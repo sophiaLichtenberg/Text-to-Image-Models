@@ -136,34 +136,46 @@
 | NeurIPS    | 2026 | May              | May               | Sydney        |
 | EMNLP      | 2026 | May              | May               | Budapest      |
 | AIES       | 2026 | 21.05.2026       | 21.05.2026        | Malmö         |
-| WACV       | 2026 | Jul/Sep          | Jul/Sep           | Tucson        |
-| ICLR       | 2026 | Sep              | Sep               | Rio           |
-| CHI        | 2026 | Sep              | Sep               | Pittsburgh    |
-| CVPR       | 2026 | Nov              | Nov               | Denver        |
+| WACV       | 2027 | Jul/Sep          | Jul/Sep           | Tucson        |
+| ICLR       | 2027 | Sep              | Sep               | ...           |
+| CHI        | 2027 | Sep              | Sep               | Pittsburgh    |
+| CVPR       | 2027 | Nov              | Nov               | Denver        |
 |            |      |                  |                   |               | 
 | ICML       | 2027 | Jan              | Jan               | ...           |
-| FAccT      | 2026 | Jan              | Jan               | ...           |
+| ACL        | 2027 | Jan              | Jan               | ...           |
+| FAccT      | 2027 | Jan              | Jan               | ...           |
 | ICCV       | 2027 | Mar              | Mar               | Hong Kong     |
 | NeurIPS    | 2027 | May              | May               | ...           |
-| WACV       | 2027 | Jul/Sep          | Jul/Sep           | ...           |
-| ICLR       | 2026 | Sep              | Sep               |               |
-| CVPR       | 2027 | Nov              | Nov               | Seattle       |
+| EMNLP      | 2027 | May              | May               | ...           |
+| AIES       | 2027 | May              | May               | ...           |
+| WACV       | 2028 | Jul/Sep          | Jul/Sep           | ...           |
+| ICLR       | 2028 | Sep              | Sep               | ...           |
+| CHI        | 2028 | Sep              | Sep               | ...           |
+| CVPR       | 2028 | Nov              | Nov               | Seattle       |
 |            |      |                  |                   |               | 
 | ICML       | 2028 | Jan              | Jan               | ...           |
-| FAccT      | 2026 | Jan              | Jan               | ...           |
+| ACL        | 2028 | Jan              | Jan               | ...           |
+| FAccT      | 2028 | Jan              | Jan               | ...           |
 | ECCV       | 2028 | Feb              | Mar               | ...           |
 | NeurIPS    | 2028 | May              | May               | ...           |
-| WACV       | 2028 | Jul/Sep          | Jul/Sep           | ...           |
-| ICLR       | 2026 | Sep              | Sep               |               |
-| CVPR       | 2028 | Nov              | Nov               | San Antonio   |
+| EMNLP      | 2028 | May              | May               | ...           |
+| AIES       | 2028 | May              | May               | ...           |
+| WACV       | 2029 | Jul/Sep          | Jul/Sep           | ...           |
+| ICLR       | 2029 | Sep              | Sep               |               |
+| CHI        | 2029 | Sep              | Sep               | ...           |
+| CVPR       | 2029 | Nov              | Nov               | San Antonio   |
 |            |      |                  |                   |               | 
 | ICML       | 2029 | Jan              | Jan               | ...           |
-| FAccT      | 2026 | Jan              | Jan               | ...           |
+| ACL        | 2029 | Jan              | Jan               | ...           |
+| FAccT      | 2029 | Jan              | Jan               | ...           |
 | ICCV       | 2029 | Mar              | Mar               | Dubai         |
 | NeurIPS    | 2029 | May              | May               | ...           |
-| WACV       | 2029 | Jul/Sep          | Jul/Sep           | ...           |
-| ICLR       | 2026 | Sep              | Sep               |               |
-| CVPR       | 2029 | Nov              | Nov               | Los Angeles   |
+| EMNLP      | 2029 | May              | May               | ...           |
+| AIES       | 2029 | May              | May               | ...           |
+| WACV       | 2030 | Jul/Sep          | Jul/Sep           | ...           |
+| ICLR       | 2030 | Sep              | Sep               |               |
+| CHI        | 2030 | Sep              | Sep               | ...           |
+| CVPR       | 2030 | Nov              | Nov               | Los Angeles   |
 
 
 
